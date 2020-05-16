@@ -1,0 +1,2 @@
+// Never check-in sensitive information because it's hard to remove from the history
+.env
